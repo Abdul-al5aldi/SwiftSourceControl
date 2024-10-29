@@ -11,6 +11,7 @@
 		9AD3A9E02CD0FEBA0020ED10 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD3A9DF2CD0FEBA0020ED10 /* ContentView.swift */; };
 		9AD3A9E22CD0FEBB0020ED10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AD3A9E12CD0FEBB0020ED10 /* Assets.xcassets */; };
 		9AD3A9E52CD0FEBB0020ED10 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AD3A9E42CD0FEBB0020ED10 /* Preview Assets.xcassets */; };
+		9AD3A9EC2CD14C670020ED10 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD3A9EB2CD14C670020ED10 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9AD3A9DF2CD0FEBA0020ED10 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9AD3A9E12CD0FEBB0020ED10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9AD3A9E42CD0FEBB0020ED10 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9AD3A9EB2CD14C670020ED10 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				9AD3A9DD2CD0FEBA0020ED10 /* SwiftSourceControlApp.swift */,
 				9AD3A9DF2CD0FEBA0020ED10 /* ContentView.swift */,
+				9AD3A9EB2CD14C670020ED10 /* HomeView.swift */,
 				9AD3A9E12CD0FEBB0020ED10 /* Assets.xcassets */,
 				9AD3A9E32CD0FEBB0020ED10 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9AD3A9EC2CD14C670020ED10 /* HomeView.swift in Sources */,
 				9AD3A9E02CD0FEBA0020ED10 /* ContentView.swift in Sources */,
 				9AD3A9DE2CD0FEBA0020ED10 /* SwiftSourceControlApp.swift in Sources */,
 			);
