@@ -20,6 +20,8 @@ struct ContentView: View {
                 
             }
             
+            Rectangle()
+            
         }
         .padding()
     }
