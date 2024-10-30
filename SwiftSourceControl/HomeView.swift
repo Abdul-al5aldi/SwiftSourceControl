@@ -14,6 +14,8 @@ struct HomeView: View {
         Text("Hi")
         Text("Screen 2!")
         Text("Screen 3")
+        
+        // send analytics
     }
 }
 
